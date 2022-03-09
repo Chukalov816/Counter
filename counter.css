@@ -1,0 +1,46 @@
+.button {
+    background-color:coral;
+    border: none;
+    color: white;
+    padding: 35px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px; 
+    box-shadow: silver;
+  }
+
+  .text{
+  text-indent: 40px;
+
+    color: red;
+    font-size: 67px;;
+   font-style: normal;
+  display: block;
+    
+    
+   
+  }
+  .clear{
+      margin-top: 10px;
+    background-color:rosybrown;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    padding: 0px 52px;
+  }
+  .hours{
+    text-indent: 20px;
+
+    color: blue;
+    font-size: 67px;;
+   font-style: normal;
+   display: inline-block;
+  }
+  .input{
+display: -moz-inline-box;
+}
+  
